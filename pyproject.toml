@@ -10,6 +10,10 @@ packages = [{include = "top200_solo"}]
 python = "^3.11"
 requests = "^2.31.0"
 python-dotenv = "^1.0.0"
+python-boardgamegeek = {git = "https://github.com/mmonkey/boardgamegeek.git"}
+pytest = "^7.4.3"
+ply = "^3.11"
+thefuzz = "^0.20.0"
 
 
 [build-system]

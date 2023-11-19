@@ -1,0 +1,33 @@
+1. Lord of the Rings LCG
+2-Mage Knight
+02. Everdell, H Εύφορη Κοιλάδα (2021)
+3-Nusfjor
+4. Gloom/Shadows of Kilforth
+1.Bullet Heart / Bullet♥︎
+6, Imperium Classics/Legends
+8. Eighth Airforce 2nd Edition
+9. Buffy the Vampire Slayer: The Board Game (the one that came out in 2016 and is considered a lite version of Eldritch/Arkham Horror)
+9. Bullet
+11. Pandemic: Hot Zone - NA
+12. Grove - 9 card
+14. Pax Pamir 2nd Ed.
+17 : Marvel United / X-Men
+15-Legendary Encounters (Alien)
+15. LotR Journeys in middle earth
+15. Exit: The Game (all of them)
+16-Star wars Outer Rim + Unfinished business
+17- The Shores of Tripoli NEW ENTRY
+17. The Mall Is Under Construction (2020 54-Card Design Contest Winner)
+19. Dragonfire/Shadowrun: Crossfire
+19. ROVE
+20. The Fool's Journey (a Tarot game. 7th Place in 2016 Solitaire PnP Contest)
+20. Runebound 3rd Edition
+25. Wungspan
+
+
+If prev_results == 1, use that
+
+BGG Search
+If not fuzz
+
+If no result, use prev results
